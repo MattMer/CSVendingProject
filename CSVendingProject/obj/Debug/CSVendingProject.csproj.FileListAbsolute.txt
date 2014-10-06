@@ -1,0 +1,6 @@
+F:\Documents\Visual Studio 2012\Projects\CS\CSVendingProject\CSVendingProject\obj\Debug\CSVendingProject.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2012\Projects\CS\CSVendingProject\CSVendingProject\bin\Debug\CSVendingProject.dll.config
+F:\Documents\Visual Studio 2012\Projects\CS\CSVendingProject\CSVendingProject\bin\Debug\CSVendingProject.dll
+F:\Documents\Visual Studio 2012\Projects\CS\CSVendingProject\CSVendingProject\bin\Debug\CSVendingProject.pdb
+F:\Documents\Visual Studio 2012\Projects\CS\CSVendingProject\CSVendingProject\obj\Debug\CSVendingProject.dll
+F:\Documents\Visual Studio 2012\Projects\CS\CSVendingProject\CSVendingProject\obj\Debug\CSVendingProject.pdb

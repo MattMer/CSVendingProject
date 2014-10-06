@@ -1,0 +1,7 @@
+F:\Documents\Visual Studio 2012\Projects\CS\CSVendingProject\VendingTests\obj\Debug\VendingTests.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2012\Projects\CS\CSVendingProject\VendingTests\bin\Debug\VendingTests.dll
+F:\Documents\Visual Studio 2012\Projects\CS\CSVendingProject\VendingTests\bin\Debug\VendingTests.pdb
+F:\Documents\Visual Studio 2012\Projects\CS\CSVendingProject\VendingTests\bin\Debug\CSVendingProject.dll
+F:\Documents\Visual Studio 2012\Projects\CS\CSVendingProject\VendingTests\bin\Debug\CSVendingProject.pdb
+F:\Documents\Visual Studio 2012\Projects\CS\CSVendingProject\VendingTests\obj\Debug\VendingTests.dll
+F:\Documents\Visual Studio 2012\Projects\CS\CSVendingProject\VendingTests\obj\Debug\VendingTests.pdb
